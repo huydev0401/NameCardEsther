@@ -42,7 +42,7 @@ function App() {
             </div>
             <div className="card-social">
               <a
-                href="fb://profile/https://www.facebook.com/thuc.doan.5/"
+                href="https://www.facebook.com/thuc.doan.5?mibextid=LQQJ4d"
                 target="_blank"
               >
                 <img src="/icons/facebook.png" alt="" />
@@ -78,7 +78,7 @@ function App() {
             <a
               onClick={() => activeLink3(true)}
               className={`${showLink3 ? "is-active" : ""}`}
-              href="https://drive.google.com/file/d/1iv9sKRmnusIq1KBt_9wuzFA-m2mdeQOA/view"
+              href="https://drive.google.com/file/d/17VXDdRsMkRbEMZtSpisSSO3ryUbpXWIm/view"
               target="_blank"
               data-section="#contact"
             >
