@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+REV:2023-01-10T03:24:00Z
+N;CHARSET=utf-8:LÊ THỤY THỤC ĐOAN;;;;
+FN;CHARSET=utf-8:LÊ THỤY THỤC ĐOAN
+ORG;CHARSET=utf-8:Công ty Cổ phần Truyền thông Đa phương tiện Wow
+TITLE;CHARSET=utf-8:Co-founder
+ROLE;CHARSET=utf-8:Co-founder
+EMAIL;INTERNET:media@wowmultimedia.vn
+TEL;PREF;WORK:0778206885
+TEL;WORK:
+ADR;WORK;POSTAL;CHARSET=utf-8:87 - 89 Hồ Bá Kiện, Phường 15, Quận 10, TP.HC
+ M;;;;;;
+URL;TYPE=Profile:https://drive.google.com/file/d/1iv9sKRmnusIq1KBt_9wuzFA-m2mdeQOA/view
+URL;TYPE=Website:wowmultimedia.vn
+URL;TYPE=Website:
+URL;TYPE=Facebook:fb://profile/https://www.facebook.com/thuc.doan.5/
+URL;TYPE=Zalo:https://zalo.me/0778206885
+URL;TYPE=Telegram:https://telegram.me/+84778206885
+URL;TYPE=Viber:viber://chat?number=+84778206885
+END:VCARD
